@@ -9,3 +9,4 @@ aiohttp
 aiofiles
 Pillow
 git+https://github.com/Itz-fork/Gofile2.git
+Buttons
