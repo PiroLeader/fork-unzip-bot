@@ -14,7 +14,7 @@ import logging
 from pyrogram import idle
 from os import makedirs, path
 from config import Config
-
+import Buttons
 
 if __name__ == "__main__":
     logging.info(" >> Checking download location...")
