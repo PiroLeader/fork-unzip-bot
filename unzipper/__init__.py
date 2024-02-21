@@ -14,6 +14,7 @@ import logging
 from pyromod import listen
 from .client import UnzipperBot
 from .client.caching import update_cache
+import Buttons
 
 # Logging stuff
 logging.getLogger().setLevel(logging.INFO)
